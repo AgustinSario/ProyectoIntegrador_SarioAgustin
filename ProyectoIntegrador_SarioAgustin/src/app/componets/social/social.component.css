@@ -1,8 +1,7 @@
 img{
     width: 30px;
+    float: right;
+    
 
 }
-app-social{
-    float: right;
-    margin-top: 25px
-}
+ 
